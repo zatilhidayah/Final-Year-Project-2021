@@ -1,2 +1,4 @@
 # Final-Year-Project-2021
 Prediction Stock Price Top Glove Corporation Berhad in Malaysia Using Machine Learning 
+
+This study discusses the comparison of different methods to predict Malaysia stock price by using machine learning method. The stock market index of Top Glove Corporation Berhad will be used in this study. The Covid19 pandemic has been raging since 2020 till now, which has caused to increase the demand for Top Glove company’s products. That’s why, Top Glove is very important during the pandemic in Malaysia. Top Glove stock price data was collected from the financial market platform. This prediction will be done by using Backward Propagation Neural Network (BNN) and Long-Short Term Memory (LSTM) method to achieve the objectives of the study. Finally, the final results in this study indicate that the LSTM is more accurate than BNN method.
